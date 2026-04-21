@@ -30,24 +30,21 @@ Core Python concepts used in data analytics
 
 ## 🚀 Projects
 
-### 🩺 Diabetes Prediction (Machine Learning)
-- Built a Decision Tree model to predict diabetes progression
-- Performed data preprocessing and model evaluation
-- Business impact: Helps in early risk identification
+### 🩺 [Diabetes Prediction](./projects/diabetes-prediction)
+- Built a Decision Tree model to predict diabetes progression  
+- Business impact: Helps in early risk identification  
 
 ---
 
-### 📊 Customer Churn Analysis
-- Built classification model to predict customer churn
-- Identified key factors influencing churn
-- Business impact: Helps reduce customer loss
+### 📊 [Customer Churn Analysis](./projects/customer-churn-analysis)
+- Built a classification model to predict customer churn  
+- Business impact: Helps reduce customer loss  
 
 ---
 
-### 📈 Sales Analysis
-- Analyzed sales trends using Python
-- Identified top-performing days and patterns
-- Business impact: Supports business decision-making
+### 📈 [Sales Data Analysis](./projects/sales-analysis)
+- Analyzed sales trends and patterns using Python  
+- Business impact: Supports business decision-making  
 
 ---
 
