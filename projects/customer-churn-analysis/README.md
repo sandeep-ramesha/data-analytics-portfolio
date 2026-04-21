@@ -22,6 +22,10 @@ Analyze customer data and predict churn using machine learning techniques to ide
 - Certain services significantly influence retention
 - Customer behavior patterns can predict churn effectively
 
+## 📊 Visualization
+
+![Churn Distribution](churn_distribution.png)
+
 ## Business Impact
 - Helps businesses identify at-risk customers
 - Enables proactive retention strategies
