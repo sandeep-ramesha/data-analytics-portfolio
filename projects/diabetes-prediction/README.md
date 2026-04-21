@@ -6,6 +6,18 @@ Predict diabetes progression using machine learning techniques.
 ## Model Used
 - Decision Tree Regressor
 
+## 🌳 Decision Tree Visualization
+
+This diagram represents how the model splits data based on different features to make predictions.
+
+![Decision Tree](decision_tree_diabetes.png)
+
+## Model Interpretation
+- The tree splits data based on key features to minimize prediction error
+- Each node represents a decision rule applied to the dataset
+- Leaf nodes show the final predicted values
+- The model helps understand which features influence the prediction the most
+
 ## Steps
 - Data preprocessing
 - Model training
