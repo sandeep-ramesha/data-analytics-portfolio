@@ -4,23 +4,42 @@ Hi, I'm Sandeep Ramesha — an aspiring Data Analyst with a background in Constr
 
 ---
 
-## 🐍 Python Foundations
-Structured learning of Python for analytics:
-- Data structures and manipulation
-- Loops and automation
-- File handling and error handling
+## 🚀 About Me
+- Skilled in Python, SQL, Excel, and Power BI
+- Experience in data analysis, visualization, and machine learning
+- Passionate about solving real-world problems using data
 
 ---
 
-## 🚀 Upcoming Projects
-- Stock Market Analysis
-- Data Visualization Dashboards
-- SQL-based Analysis
+## 📂 Portfolio Sections
+
+### 🐍 Python Foundations
+Core Python concepts applied to data analytics:
+- Data Structures
+- Loops & Automation
+- Functions
+- File Handling
+- Error Handling
+
+👉 Located in: `python-foundations/`
 
 ---
 
-## 🛠 Tools
-- Python
+## 🚀 Projects (Coming Soon)
+- 📈 Stock Market Analysis (Python)
+- 📊 Dashboard Projects (Power BI)
+- 🗄 SQL Data Analysis
+
+---
+
+## 🛠 Tools & Technologies
+- Python (Pandas, NumPy, Scikit-learn)
 - SQL
 - Excel
 - Power BI
+- Jupyter Notebook
+
+---
+
+## 📬 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/sandeep-ramesha-7a37871a8
