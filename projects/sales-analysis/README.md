@@ -14,6 +14,14 @@ Analyze sales data to identify trends, patterns, and key performance indicators 
 - Visualized sales patterns using charts
 - Identified trends and distributions
 
+## 📊 Visualizations
+
+### Distribution of Sales
+![Sales Distribution](sales_distribution.png)
+
+### Sales by Day
+![Sales by Day](sales_by_day.png)
+
 ## Key Insights
 - Sales vary across different days, showing peak business periods
 - Certain days generate higher revenue, indicating customer behavior trends
