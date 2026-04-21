@@ -13,19 +13,26 @@ Hi, I'm Sandeep Ramesha — an aspiring Data Analyst with a background in Constr
 
 ## 📂 Portfolio Sections
 
-### 🐍 Python Foundations
-Core Python concepts applied to data analytics:
-- Data Structures
-- Loops & Automation
-- Functions
-- File Handling
-- Error Handling
+🐍 Python Foundations
+Core Python concepts for analytics
 
-👉 Located in: `python-foundations/`
+### 📊 Data Analysis
+- NumPy
+- Pandas
+- Data Visualization
+
+### 🤖 Machine Learning
+- Regression models
+- Classification models
+- Model training techniques
+
+### 🚀 Projects
+- 🩺 Diabetes Prediction using ML
+
 
 ---
 
-## 🚀 Projects (Coming Soon)
+## 🚀 Projects
 - 📈 Stock Market Analysis (Python)
 - 📊 Dashboard Projects (Power BI)
 - 🗄 SQL Data Analysis
