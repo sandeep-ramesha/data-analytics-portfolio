@@ -1,6 +1,6 @@
 # 📊 Data Analytics Portfolio
 
-Hi, I'm Sandeep Ramesha — an aspiring Data Analyst with a background in Construction Project Management and a strong focus on data-driven decision making.
+Hi, I'm Sandeep Ramesha — a Data Analyst skilled in Python, SQL, and Power BI, focused on solving business problems using data-driven insights.
 
 ---
 
