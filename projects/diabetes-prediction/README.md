@@ -17,3 +17,9 @@ Predict diabetes progression using machine learning techniques.
 
 ## Outcome
 Demonstrates application of machine learning in healthcare analytics.
+
+## Key Insights
+- Certain health metrics significantly influence diabetes progression
+- Higher values in specific features indicate increased risk
+- The model helps identify patients who may require early medical attention
+- Machine learning can support healthcare decision-making and risk prediction
